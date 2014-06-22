@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NoAdblock Nice Message\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro Ventura <pedrojventura@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: noadblock.php:28
+msgid "Adblock is actived!"
+msgstr "Adblock esta activo!"
+
+#: noadblock.php:28
+msgid "This blog helps you to solve your doubts and keeps you informed. <br />Please,<b> consider to disable the adblock <u>in this site</u></b>!<br /> Thank You!"
+msgstr "Este blog te ayuda a resolver tus dudas y mantenerte informado. <br /> Por favor,<b> considera desactivar el adblock <u>en este sitio</u></b>!<br /> Gracias!"
+

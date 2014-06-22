@@ -1,0 +1,1 @@
+var niceAdsCheck = true;

@@ -1,0 +1,52 @@
+.niceMessage {
+	bottom: 0;
+	position: fixed;
+	right:1px;
+	width: 25%;
+	z-index: 100;
+}
+.niceMessage .inner {
+	padding: 5px 0;
+}
+.niceMessage .text {
+	background-color: #b5b5b5;
+	border: 1px solid #DDDDDD;
+	border-radius: 4px 4px 4px 4px;
+	margin: 0 auto;
+	max-width: 75%;
+	padding: 7px 37px 7px 17px;
+	position: relative;
+}
+.niceMessage .text p {
+	color: #333333;
+	font-size: 12px;
+	margin: 0;
+}
+.niceMessage .text p strong {
+	background: url("../images/cross-octagon.png") no-repeat scroll 0 3px transparent;
+	display: block;
+	font-weight: bold;
+	line-height: 19px;
+	margin-bottom: 3px;
+	padding-left: 19px;
+}
+.niceMessage .text p a {
+	color: #0097C8;
+	font-weight: bold;
+}
+.niceMessage .text a.close {
+	background: url("../images/cross-small.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	height: 16px;
+	overflow: hidden;
+	position: absolute;
+	right: 8px;
+	text-indent: 100%;
+	top: 12px;
+	white-space: nowrap;
+	width: 16px;
+}
+.close {
+	cursor: pointer;
+}
+
