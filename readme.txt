@@ -13,6 +13,10 @@ This plugin shows a friendly message to the users with any adblock extension on 
 
 The message disappears when the user close the message box.
 
+== Screenshots ==
+
+1.  Flyout box message.
+
 == Installation ==
 
 1. Upload the plugin to the `/wp-content/plugins/` directory
