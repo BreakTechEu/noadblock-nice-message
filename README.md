@@ -5,3 +5,11 @@ This plugin shows a friendly message to the users with any adblock extension on 
 
 The message disappears when the user close the message box.
 
+### Download Plugin
+ 
+http://wordpress.org/plugins/noadblock-nice-message/
+
+### Contribute
+
+Feel free to contribute developing or translate this plugin. 
+
