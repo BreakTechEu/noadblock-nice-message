@@ -11,5 +11,5 @@ http://wordpress.org/plugins/noadblock-nice-message/
 
 ### Contribute
 
-Feel free to contribute developing or translate this plugin. 
+Feel free to contribute to this plugin by developing new features, bug fixing, and translate it.
 

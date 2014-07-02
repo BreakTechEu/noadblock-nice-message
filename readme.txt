@@ -13,6 +13,16 @@ This plugin shows a friendly message to the users with any adblock extension on 
 
 The message disappears when the user close the message box.
 
+**Available languages:**
+
+* English
+* Spanish
+
+**Contribute**
+
+Feel free to contribute to this plugin by developing new features, bug fixing, and translate it.
+GitHub Repo: https://github.com/elpeter/noadblock-nice-message
+
 == Screenshots ==
 
 1.  Flyout box message.
