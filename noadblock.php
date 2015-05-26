@@ -3,7 +3,7 @@
 Plugin Name: NoAdblock Nice Message
 Plugin URI: http://pedroventura.es/TjVFZ6
 Description: This plugin shows a friendly message to the users with any adblock extension on their browser. The plugin just suggests to disable the adblock for your blog with a flyout box.
-Version: 1.0.0
+Version: 1.2.1
 Author: Pedro Ventura
 Author URI: https://www.pedroventura.com
 License: GPL2
@@ -48,7 +48,7 @@ function load_translations() {
  */
 function start_plugin() {
 	$title =  __('Adblock is actived!', 'noadblock');
-	$message =  __('This blog helps you to solve your doubts and keeps you informed. <br />Please,<b> consider to disable the adblock <u>in this site</u></b>!<br /> Thank You!', 'noadblock');
+	$message =  __('This blog helps you to solve your doubts and keeps you informed. <br />Please,<b> consider to disable the adblock in this site</b>!<br /> Thank You!', 'noadblock');
 	?>
 	<script type="text/javascript">
 		var niceMessageSetup = { "text": [
